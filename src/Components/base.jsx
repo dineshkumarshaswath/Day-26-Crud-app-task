@@ -12,7 +12,7 @@ function Base({children}){
      <Navbar bg="primary"  style={{overflow:'hidden'}}variant="dark">
         <Container className='navbar'>
           <div className='nav1'>
-          <Navbar.Brand href="/" style={{color:'aliceblue'}}>StudentApp</Navbar.Brand>
+          <Navbar.Brand href="/add" style={{color:'aliceblue'}}>StudentApp</Navbar.Brand>
           </div>
           <div className='nav2'>
           <Nav className="me-auto">
